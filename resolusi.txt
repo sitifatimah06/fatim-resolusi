@@ -4,3 +4,5 @@ RESOLUSI 2026
 - Update CV
 - Sebar proposal magang/PKL
 - IPK >3.5
+- Bisa bikin web
+- Mahir minimal 1 bahasa
